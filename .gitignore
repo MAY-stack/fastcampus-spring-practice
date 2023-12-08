@@ -39,9 +39,9 @@
 # .idea/compiler.xml
 # .idea/jarRepositories.xml
 # .idea/modules.xml
- .idea/*.iml
+ .idea/**.iml
 # .idea/modules
- *.iml
+ **.iml
 # *.ipr
 
 # CMake
@@ -213,3 +213,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/java,visualstudiocode,intellij,gradle
+.idea/modules/fastcampus-java-oop.test.iml
+*.iml
